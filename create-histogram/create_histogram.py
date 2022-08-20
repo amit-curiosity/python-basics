@@ -1,3 +1,5 @@
+# copyright (c) 2022 amit-curiosity
+
 # define histogram creation logic
 def create_histogram(list_of_numbers):
     for number in list_of_numbers:

@@ -1,3 +1,4 @@
+# copyright (c) 2022 amit-curiosity
 from sys import stderr
 from hangman_arts import hangman_logo, current_stage
 from hangman_words import possible_words_list

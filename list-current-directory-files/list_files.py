@@ -1,3 +1,4 @@
+# copyright (c) 2022 amit-curiosity
 import os
 
 # get current file's path

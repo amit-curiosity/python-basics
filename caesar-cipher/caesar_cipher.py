@@ -1,3 +1,5 @@
+# copyright (c) 2022 amit-curiosity
+
 # function to encrypt message
 def encode_message(plain_text: str, shift_amount: int):
     encoded_message = []

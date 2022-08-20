@@ -1,3 +1,4 @@
+# copyright (c) 2022 amit-curiosity
 def print_multiple():
     number = int(input("Enter a number: "))
     i = 1

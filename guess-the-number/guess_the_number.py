@@ -1,3 +1,4 @@
+# copyright (c) 2022 amit-curiosity
 from sys import stderr
 from random import randint
 

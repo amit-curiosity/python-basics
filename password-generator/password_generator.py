@@ -1,3 +1,5 @@
+# copyright (c) 2022 amit-curiosity
+
 # Generate Strong Password
 import string
 import random

@@ -1,3 +1,5 @@
+# copyright (c) 2022 amit-curiosity
+
 # students score-dictionary
 student_scores = {
     "Harry": 81,

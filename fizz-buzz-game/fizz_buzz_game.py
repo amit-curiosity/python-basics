@@ -1,3 +1,5 @@
+# copyright (c) 2022 amit-curiosity
+
 # Fizz-Buzz Game
 def fizz_buzz_game(end_point):
     for number in range(1, end_point + 1):
