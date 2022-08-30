@@ -55,11 +55,11 @@ def draw_hirst_painting(n_horizontal_lines, n_vertical_lines, dot_size, distance
     for i in range(n_horizontal_lines):
         y -= distance_between_dots
         if i % 2 == 0:
-            shift_turtle_origin(-x + distance_between_dots/2, -y - distance_between_dots/2)
+            shift_turtle_origin(-x + distance_between_dots / 2, -y - distance_between_dots / 2)
             draw_single_dotted_line(distance=distance_between_dots, direction='forward', dot_size=dot_size,
                                     n_vertical_lines=n_vertical_lines)
         else:
-            shift_turtle_origin(x - distance_between_dots/2, -y - distance_between_dots/2)
+            shift_turtle_origin(x - distance_between_dots / 2, -y - distance_between_dots / 2)
             draw_single_dotted_line(distance=distance_between_dots, direction='backward', dot_size=dot_size,
                                     n_vertical_lines=n_vertical_lines)
 
